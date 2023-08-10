@@ -5491,19 +5491,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhose\\.nuget\\packages\\": {}
+    "/home/apolm01-002/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Aplicacion/Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Aplicacion\\Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\jhose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Aplicacion\\obj\\",
+      "projectPath": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Aplicacion/Aplicacion.csproj",
+      "packagesPath": "/home/apolm01-002/.nuget/packages/",
+      "outputPath": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Aplicacion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhose\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/apolm01-002/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5515,11 +5515,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj"
+            "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Dominio/Dominio.csproj": {
+              "projectPath": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Dominio/Dominio.csproj"
             },
-            "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Persistencia\\Persistencia.csproj"
+            "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Persistencia/Persistencia.csproj": {
+              "projectPath": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Persistencia/Persistencia.csproj"
             }
           }
         }
@@ -5549,7 +5549,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
       }
     }
   }

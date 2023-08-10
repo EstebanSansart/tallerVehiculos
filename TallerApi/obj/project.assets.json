@@ -6289,33 +6289,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhose\\.nuget\\packages\\": {}
+    "/home/apolm01-002/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\TallerApi\\TallerApi.csproj",
+      "projectUniqueName": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/TallerApi/TallerApi.csproj",
       "projectName": "TallerApi",
-      "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\TallerApi\\TallerApi.csproj",
-      "packagesPath": "C:\\Users\\jhose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\TallerApi\\obj\\",
+      "projectPath": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/TallerApi/TallerApi.csproj",
+      "packagesPath": "/home/apolm01-002/.nuget/packages/",
+      "outputPath": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/TallerApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jhose\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/apolm01-002/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Aplicacion\\Aplicacion.csproj"
+            "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Aplicacion/Aplicacion.csproj": {
+              "projectPath": "/home/apolm01-002/Desktop/Esteban/tallerVehiculos/Aplicacion/Aplicacion.csproj"
             }
           }
         }
@@ -6366,7 +6365,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
       }
     }
   }
