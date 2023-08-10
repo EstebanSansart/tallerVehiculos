@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\jhose\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhose\\AppData\\Roaming\\NuGet\\NuGet.Config"

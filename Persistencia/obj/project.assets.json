@@ -5398,8 +5398,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj": {
-              "projectPath": "c:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj"
+            "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj"
             }
           }
         }

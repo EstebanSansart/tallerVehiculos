@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E/gnj8AkcMSJzBg2t44IslOiFGI0EtZBkNe23agl+Pr2YyrYnseABqRgSjRRidYgxkbUTh2A/B0fWW8Y6kJJpQ==",
+  "dgSpecHash": "WCPyT1uaVERoO47WRktgBa8y3+salL1UhZ9RvRDoMPnbSuzSXgAEnANxXtSEn3XiYdwRc5qfkJRzwmELyc9vhQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\jhose\\OneDrive\\Escritorio\\Programación\\CAMPUS\\cSharp\\tallerVehiculos\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhose\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jhose\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
